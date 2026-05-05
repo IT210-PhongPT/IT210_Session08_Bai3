@@ -1,5 +1,6 @@
 package com.re.session08_bai03.annotation;
 
+import com.re.session08_bai03.validator.MultipleOfTenThousandValidator;
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;
 import java.lang.annotation.*;
